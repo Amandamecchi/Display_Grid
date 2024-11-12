@@ -40,20 +40,20 @@ nav {
 aside{
     grid-area: aside;
     background-color: rgb(255, 255, 255);
-    height: 19rem;
+    height: 40rem;
     align-content: center;
 }
 
 article{
     grid-area: article;
     background-color: rgb(48, 187, 168);
-    height: 9rem;
+    height: 19.5rem;
     align-content: center;
 }
 section{
     grid-area: section;
     background-color: yellow;
-    height: 9rem;
+    height: 19.5rem;
     align-content: center;
     margin-bottom: 1rem;
 }
